@@ -1,85 +1,81 @@
+<h1 align="center">Hi, I'm Vicente Mieres 👋</h1>
 
-<!--
-**Mieres7/Mieres7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Full Stack Developer</b> · AI-Powered Software · Automation
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/vicente-mieres-sep%C3%BAlveda-0085a229b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vicente%20Mieres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:vicente.mieres.s@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
 
-<h1 align="center">
-Hi, I'm Vicente Mieres!
-	<a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
-<pre>
-💻 I am a self taught Full Stack Developer
-📚 I am currently studying Civil Computer Engineering at the Universidad de Santiago de Chile
-📝 I have a strong interest in Web Development
-🔭 Working on Uniticket and Osusach website redesign
-🌱 Learning about React, NextJS and Astrophysics 
-🌟 Main languages: HTML, CSS, JavaScript
-🚩 Interested in Full Stack web development 
-</pre>
-<!--🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>-->
-	
-<div align="center">
-<h2 align="center">Tech Stack 💻</h2>
+I am a Civil Engineering student specializing in Computer Science at the University of Santiago, Chile.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![C](https://img.shields.io/badge/c-purple.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-blue.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/python-yellow.svg?style=for-the-badge&logo=python&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-white.svg?style=for-the-badge&logo=jenkins&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/kubernetes-red.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/springboot-6DA55F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-red.svg?style=for-the-badge&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/react-%230db7ed.svg?style=for-the-badge&logo=react&logoColor=white)
+I have experience designing and implementing full stack software solutions, working across frontend, backend, databases, and DevOps tools. I am particularly interested in AI-powered software development, including the integration of AI agents, machine learning models, and automation workflows to build intelligent and scalable products.
 
+- 💼 Experience as a Full Stack and Software Developer.
+- 🧠 Interested in AI agents, machine learning, and software automation.
+- 🔧 Experience building interfaces, backend services, databases, and deployment workflows.
+- 🌎 Based in Santiago, Chile.
+- 📫 Reach me at [vicente.mieres.s@gmail.com](mailto:vicente.mieres.s@gmail.com).
 
-<h2 align="center">My Socials 🌐</h2>
+## Tech stack
 
+### Frontend
 
-![Gmail](https://img.shields.io/badge/gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white)
-[![Linkedin](https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-mieres-sep%C3%BAlveda-0085a229b/)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+### Backend and data
 
-<h2 align="center">GitHub Stats 📊</h2>
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Mieres7&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mieres7&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+### DevOps and tools
 
-  </td>
-</tr>
-</table>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
+## Experience highlights
 
+- Developed full stack modules for the **Notifica** platform, covering user interfaces, backend services, and database management.
+- Built software solutions for industrial environments, including a Windows service that automates the capture of weight readings from an industrial scale through serial ports.
+- Developed research prototypes with unit tests and conducted technical literature reviews in scientific computing and image synthesis.
 
+## GitHub statistics
 
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Mieres7&show_icons=true&theme=transparent&hide_border=true"
+    alt="Vicente's GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mieres7&layout=compact&theme=transparent&hide_border=true"
+    alt="Most used languages"
+  />
+</p>
 
-
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Mieres7&theme=transparent&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
